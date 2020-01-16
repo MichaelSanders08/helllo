@@ -5,6 +5,8 @@ Date: 2020/01/14
 #include <stdio.h>
 
 int main(void) {
-	printf("Michael Sanders");
+	
+	printf("Michael Sanders\n");
+	printf("Computer Science\n");
 	return 0;
 }
